@@ -20,7 +20,7 @@ The project has three screen extensions:
   - adding e.preventDefault() and form.reset() to form submit;
 
 ## DEMO LINK:
-https://Soi4An.github.io/layout_miami/
+https://soi4an.github.io/cycling-landing/
 
 ## Figma design:
 https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1
